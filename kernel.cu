@@ -139,7 +139,7 @@ int main(int argc, char const* argv[])
 	printf("CPU time: %f ms.\n", cpuTime);
 	printf("GPU time: %f ms.\n", gpuTime);
 
-	//freeing the allocated memory
+	//freeing allocated memory
 	cudaFreeHost(h_a);
 	cudaFreeHost(h_b);
 	cudaFreeHost(h_c);
