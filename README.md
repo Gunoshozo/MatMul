@@ -3,8 +3,11 @@
 
 # Характеристики
  CPU: Intel Core i7 2600 3.40 GHz
+ 
  GPU: Geforce GTX 1060 6gb
+ 
  RAM: 16 Gb
+ 
  CUDA: 10.1
 
 # Результаты
